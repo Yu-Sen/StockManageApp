@@ -1,0 +1,6 @@
+.has-error{
+  color: #ff0000;
+}
+.has-error input{
+  border:1px solid #ff0000;
+}
